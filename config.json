@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6281211265326@s.whatsapp.net","6281211265326@s.whatsapp.net"],
+    "ownerName": "Fierzaetha",
+    "instagram" : "https://instagram.com/kingverootz",
+    "gcwa" : "https://instabio.cc/Xlycans",
+    "botName": "Xlycans-MD",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Xlycans.jpg",
+    "BotKey": "uQXCDFM5vDnSKxu",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
