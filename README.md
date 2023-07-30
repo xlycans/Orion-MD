@@ -1,5 +1,5 @@
 ## WELCOME
-<img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+X L C A N S;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Banh+%3A);jangan+lupa+kasih+start+!" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+X L Y C A N S;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Banh+%3A);jangan+lupa+kasih+start+!" alt="budii">
 
 ## CATATAN ( NOTE )
 Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
@@ -13,13 +13,13 @@ Best Regards
 </p>
 <h1 align="center">XLYCANS</h1>
 <p align="center">
-  <a href="https://github.com/xlycans"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Xlycans+Multi+Device;Base+xlycans;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/xlycans"><img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Xlycans+Multi+Device;Base+xlycans;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---------
 ## Stats
-![X L Y C A N S GitHub stats](https://github-readme-stats.vercel.app/api?username=MendingTuru&show_icons=true&theme=radical)
-<p align="center"><a href="https://github.com/MendingTuru"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokoPangeran&theme=radical&layout=compact"></a></p>
+  ![X L Y C A N S GitHub stats](https://github-readme-stats.vercel.app/api?username=xlycans&show_icons=true&theme=radical)
+<p align="center"><a href="https://github.com/xlycans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlycans&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## Media Sosial Bot
