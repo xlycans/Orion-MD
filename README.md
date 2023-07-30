@@ -24,7 +24,7 @@ Best Regards
 
 ## Media Sosial Bot
 <p align="center">
-  <a href="https://wa.me/6281211265326?text=Menu"><img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/6281211265326?text=Sewa Bot"><img src="https://img.shields.io/badge/Owner%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <a href="https://chat.whatsapp.com/https://chat.whatsapp.com/F85rbh0T7CdHb6NPJIOcJA"><img src="https://img.shields.io/badge/WhatsApp%20Grup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
@@ -91,7 +91,7 @@ $ node .
 
 ---------
 
-# ❗ Warning
+## ❗ Warning
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
